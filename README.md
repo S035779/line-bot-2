@@ -31,7 +31,7 @@ $ git push -u origin master
 $ ngrok http 3000
 ```
 
-## 4. Run line-bot-1 app.
+## 4. Run line-bot-2 app.
 
 ```
 $ npm run web
